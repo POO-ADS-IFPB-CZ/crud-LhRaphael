@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qNmwDDQV)
+# CRUD
+
+O projeto trata-se de uma tabela de gerenciamento de produtos em que o usuário pode:
+---
+- Ver os produtos listados no arqquivo "atencao.dat"
+- Adicionar novos produtos
+- Remover produtos
+- Atualizar uma linha específica
+---
+A tabela conta com 3 colunas: Código, Descrição e Preço.
